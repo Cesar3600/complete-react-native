@@ -8,7 +8,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: 'Home',
     defaultNavigationOptions: {
-      title: 'App'
+      title: 'este es el titulo de mi aplicacion:'
     }
   }
 );
