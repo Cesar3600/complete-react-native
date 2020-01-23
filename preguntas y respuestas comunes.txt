@@ -1,0 +1,56 @@
+
+
+PREGUNTAS Y RESPUESTAS
+
+
+1. que es eso de 'Text'?
+------------------------
+un elemento primitivo de React.
+usado para mostrar un contenido
+basico en pantalla.
+
+otros elementos primitivos son :
+
+VIEW -> elemento de proposito general
+utilizado para agrupar otros elementos o estilos
+
+IMAGE -> muestra una imagen
+
+BUTTON -> muestra un boton que el usuario puede
+presionar. nos regresa algun feedback cuando el 
+usuario lo presiona.
+
+
+2. que es esa cosa que parece HTML?
+-----------------------------------
+JSX es un dialecto de javascript que dice
+contenido queremos mostrar.
+
+
+3. que es appNavigator en el archivo App.js?
+--------------------------------------------
+Es una herramienta que viene de la llibreria 
+React Navigation es utilizada para mostrar
+diferentes pantallas al usuario
+
+
+4. como styles trabaja?
+-----------------------
+StyleSheet.create() es una funcion que valida
+un grupo de reglas de estilos que pasamos a
+travez de ella.
+podemos utilizarla o pasamos estilos directamente
+dentro de un elemento
+
+
+
+
+
+
+
+
+
+
+
+
+
