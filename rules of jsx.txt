@@ -1,0 +1,24 @@
+
+REGLAS DE JSX
+-------------
+
+1. podemos ensamblar diferentes elementos jsx
+como un HTML normal?
+
+
+
+2. podemos configurar diferentes elementos jsx 
+utilizando props?
+
+
+3. podemos referirnos a variables JS dentro de
+un bloque utilizando llaves?
+
+
+
+4. podemos asignar elementos jsx a una variables
+entonces mostrar esa variable dentro de 
+un bloque jsx?
+
+
+
